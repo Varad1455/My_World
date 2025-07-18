@@ -30,4 +30,4 @@ This project is designed to showcase creativity through animated visuals, music,
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/varad1455/My_World.git
+   git clone https://github.com/Varad1455/My_World.git
