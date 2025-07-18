@@ -24,7 +24,7 @@ This project is designed to showcase creativity through animated visuals, music,
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop Screenshot](assets/desktop-preview.png) | ![Mobile Screenshot](assets/mobile-preview.png) |
+| ![Desktop Screenshot](desktop-preview.png) | ![Mobile Screenshot](mobile-preview.png) |
 
 ## 🚀 How to Use
 
