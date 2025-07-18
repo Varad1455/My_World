@@ -1,4 +1,4 @@
-# 💖 Project Name
+# 💖 Project Name: Empressive WebSite
 
 _A beautiful and interactive web project made to impress and express!_
 
@@ -26,10 +26,8 @@ This project is designed to showcase creativity through animated visuals, music,
 |--------------|-------------|
 | ![Desktop Screenshot](assets/desktop-preview.png) | ![Mobile Screenshot](assets/mobile-preview.png) |
 
-> _Replace the above image links with your actual screenshot paths._
-
 ## 🚀 How to Use
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/varad1455/My_World.git
