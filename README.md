@@ -8,7 +8,7 @@ This project is designed to showcase creativity through animated visuals, music,
 
 ## 🔗 Live Preview
 
-👉 [View Live Demo](https://varad1455.github.io/My_World/)
+👉 [View Live Demo](https://your-live-link-here.com)
 
 ## 🧩 Features / Activities
 
@@ -24,10 +24,12 @@ This project is designed to showcase creativity through animated visuals, music,
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-Click Demo Link On Any View
+| ![Desktop Screenshot](assets/desktop-preview.png) | ![Mobile Screenshot](assets/mobile-preview.png) |
+
+> _Replace the above image links with your actual screenshot paths._
 
 ## 🚀 How to Use
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/varad1455/your-repo-name.git
+   git clone https://github.com/yourusername/your-repo-name.git
