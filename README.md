@@ -8,7 +8,7 @@ This project is designed to showcase creativity through animated visuals, music,
 
 ## 🔗 Live Preview
 
-👉 [View Live Demo](https://your-live-link-here.com)
+👉 [View Live Demo](https://varad1455.github.io/My_World/)
 
 ## 🧩 Features / Activities
 
