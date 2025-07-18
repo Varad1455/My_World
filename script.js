@@ -91,7 +91,7 @@ window.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("click", () => {
   if (audio.paused) {
     audio.play().then(() => {
-      playIconSpan.textContent = "⏸";
+      playIconSpan.textContent = "▐▐";
     }).catch(() => {});
   }
 }, { once: true });
@@ -104,7 +104,7 @@ playPauseBtn.addEventListener("click", () => {
   }
 });
 
-audio.addEventListener("play", () => playIconSpan.textContent = "⏸");
+audio.addEventListener("play", () => playIconSpan.textContent = "▐▐");
 audio.addEventListener("pause", () => playIconSpan.textContent = "▶");
 
 audio.addEventListener("loadedmetadata", () => {
